@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live site at Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/order-summary-component-jtO8OLFevs)
+- Live Site URL: [Live site at Netlify](https://auriga-order-summary-card.netlify.app/)
 
 ## My process
 
